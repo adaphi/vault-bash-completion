@@ -7,11 +7,11 @@ Bash completion support for [HashiCorp Vault](https://www.vaultproject.io/)
 ## Debian/Ubuntu
 
 ```
-sudo wget https://git.io/v1kgz -O /etc/bash_completion.d/vault-bash-completion
+sudo wget https://raw.githubusercontent.com/adaphi/vault-bash-completion/master/vault-bash-completion.sh -O /etc/bash_completion.d/vault-bash-completion
 ```
 
 ## Mac with Homebrew
 
 ```
-sudo wget https://git.io/v1kgz -O /usr/local/etc/bash_completion.d/vault-bash-completion
+sudo wget https://raw.githubusercontent.com/adaphi/vault-bash-completion/master/vault-bash-completion.sh -O /usr/local/etc/bash_completion.d/vault-bash-completion
 ```
